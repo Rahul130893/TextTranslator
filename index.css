@@ -1,0 +1,70 @@
+div {
+    height: 300px;
+    font-size: 20px;
+   
+  }
+  #container {
+    display: flex;
+    height: 450px;
+   
+    color: white;
+  }
+
+  #input-section {
+    flex: 1;
+    margin: 5%;
+    display: block;
+  }
+  #input-text {
+    width: 93%;
+    height: 78%;
+    background-color: transparent;
+    font-size: 20px;
+    color: white;
+    border: 2px solid white;
+    padding:20px;
+  }
+  #lang {
+    height: 33px;
+    display: flex;
+    justify-content: space-between;
+  }
+  #output-section {
+    /* border: 1px solid black; */
+    flex: 1;
+    margin: 5%;
+  }
+  select {
+    background-color: rgba(165, 180, 180, 0.87);
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    font-style: italic;
+  }
+  #output {
+    border: 2px solid white;
+    height: 90%;
+    padding-left:20px;
+  }
+  #translate-btn {
+    width: 140px;
+    height: 100%;
+    background-color: rgb(228, 124, 124);
+    color: azure;
+    font-size: 20px;
+  }
+  #header{
+    width:300px;
+    height:100px;
+  
+    border: 1px solid transparent;
+    margin:auto;
+    color: white;
+    font-style: italic;
+   
+  }
+  #main{
+    background-image: url("https://www.seamedu.com/blog/wp-content/uploads/2019/11/photography-power-of-natural-light-4.jpg");
+    background-size: cover;
+    height:700px;
+  }
