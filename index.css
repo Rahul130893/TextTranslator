@@ -1,3 +1,6 @@
+body{
+    margin:0;
+}
 div {
     height: 300px;
     font-size: 20px;
@@ -66,5 +69,5 @@ div {
   #main{
     background-image: url("https://www.seamedu.com/blog/wp-content/uploads/2019/11/photography-power-of-natural-light-4.jpg");
     background-size: cover;
-    height:700px;
+    height:740px;
   }
